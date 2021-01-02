@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Home"
+        android:title="Home"
+        android:iconTint="@color/colorPrimaryDark"
+        android:icon="@drawable/home"
+        />
+    <item
+        android:id="@+id/Customers"
+        android:title="View Customers"
+        android:iconTint="@color/colorPrimaryDark"
+        android:icon="@drawable/customer"
+        />
+    <item
+        android:id="@+id/Trans"
+        android:title="Transactions"
+        android:iconTint="@color/colorPrimaryDark"
+        android:icon="@drawable/trans"
+
+        />
+
+</menu>
